@@ -1,0 +1,34 @@
+body {
+	width: 600px;
+	margin: auto;
+	font-size: 0;
+	line-height: 0;
+	letter-spacing: -1px;
+}
+.boxred {
+	width: 200px;
+	height: 200px;
+	background: #850000;
+	display: inline-block;
+}
+.boxwhite {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	background: white;
+}
+.bishop {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+}
+.knight {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+}
+.rook {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+}
